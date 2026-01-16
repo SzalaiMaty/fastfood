@@ -1,0 +1,17 @@
+body {
+    background-color: #780000;
+}
+h1 {
+    background-color: #FFBB0F;
+    display: inline-block
+}
+#burger {
+    width: 400px;
+    float: right;
+}
+ul {
+    display: inline-block;
+}
+section {
+    
+}
