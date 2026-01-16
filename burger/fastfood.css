@@ -1,0 +1,21 @@
+body {
+    background-color: #780000;
+}
+h1 {
+    background-color: #FFBB0F;
+    display: inline-block
+}
+
+ul {
+    display: inline-block;
+}
+
+aside {
+    background-color:gray ;
+    border: 5px solid gray;
+    border-radius: 10px;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
