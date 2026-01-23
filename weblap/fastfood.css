@@ -11,7 +11,10 @@ body {
 }
 h1 {
     background-color: #FFBB0F;
-    display: inline-block
+    display: inline-block;
+    font-size: 67px;
+    border: solid #FFBB0F;
+    border-radius: 5px;
 }
 #burger {
     width: 400px;
@@ -21,8 +24,6 @@ ul {
     display: inline-block;
 }
 p {
-    font-size: 25px;
     background-color: #FFBB0F;
     color: #012900;
 }
-
