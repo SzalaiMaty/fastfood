@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    margin: 5cm;
+    border-left: 100px solid #df7700;
+    border-right: 100px solid #df7700;
+    margin: 0;
+    height: 100vh;
+    box-sizing: border-box;
+}
+h1 {
+    background-color: #FFBB0F;
+    display: inline-block
+}
+#burger {
+    width: 400px;
+    float: right;
+}
+ul {
+    display: inline-block;
+}
+p {
+    font-size: 25px;
+    background-color: #FFBB0F;
+    color: #012900;
+}
+
