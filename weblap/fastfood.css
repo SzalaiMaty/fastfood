@@ -1,14 +1,13 @@
 body {
-    background-color: white;
+    
     margin: auto;
     text-align: center;
     margin: 5cm;
     border-left: 100px solid #df7700;
     border-right: 100px solid #df7700;
     margin: 0;
-    height: 100vh;
     box-sizing: border-box;
-}
+    }
 h1 {
     background-color: #FFBB0F;
     display: inline-block;
@@ -24,7 +23,7 @@ ul {
     display: inline-block;
 }
 p {
-    display: inline-block;
+    
     background-color: #FFBB0F;
     color: #012900;
     border: #FFBB0F solid;
@@ -35,4 +34,17 @@ a {
     padding: auto;
     align-self: center;
     display: inline-block;
+}
+article {
+    display: inline-block;
+    text-align: center;
+}
+html {
+    background-image:url(media/hatter.jpg);
+}
+section {
+    padding: 50px #FFBB0F;
+    border: transparent solid 50px;
+    border-radius: 5px;
+    text-align: center;
 }
