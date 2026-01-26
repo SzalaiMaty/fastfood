@@ -24,6 +24,15 @@ ul {
     display: inline-block;
 }
 p {
+    display: inline-block;
     background-color: #FFBB0F;
     color: #012900;
+    border: #FFBB0F solid;
+    border-radius: 3px;
+}
+a {
+    margin: auto;
+    padding: auto;
+    align-self: center;
+    display: inline-block;
 }
