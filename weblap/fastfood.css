@@ -2,7 +2,6 @@ body {
     
     margin: auto;
     text-align: center;
-    margin: 5cm;
     border-left: 100px solid #df7700;
     border-right: 100px solid #df7700;
     margin: 0;
@@ -23,17 +22,23 @@ ul {
     display: inline-block;
 }
 p {
-    
+    display: inline-block;
     background-color: #FFBB0F;
     color: #012900;
     border: #FFBB0F solid;
     border-radius: 3px;
 }
 a {
-    margin: auto;
+    font-size: 17px;
+    margin-top: auto;
+    margin-bottom: 5px;
+    border: 2px solid #982121;
+    border-radius: 2px;
     padding: auto;
     align-self: center;
     display: inline-block;
+    color: #FFB80E;
+    background-color: #982121;
 }
 article {
     display: inline-block;
@@ -48,3 +53,4 @@ section {
     border-radius: 5px;
     text-align: center;
 }
+
